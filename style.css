@@ -1,0 +1,53 @@
+body { background-color: #012634;
+  font-family: sans-serif;
+}
+
+
+h1 {
+  text-align: center;
+  color: gray
+}
+
+p {
+  color: grey;
+text-align: center;
+}
+.filmsitat {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 50px;
+}
+
+.sitat
+{
+margin-top: 100px;
+color: white;
+text-decoration: underline;
+text-align:center;
+
+}
+
+
+.bilde {
+  border-radius: 30%;
+  width: 200px;
+  border-color: grey;
+  border-style: solid;
+  display: block;
+  border-width: 4px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
+
+
+li {
+color: white;
+
+}
+
+h3 {
+  text-shadow: 10%;
+  text-align: left;
+  color: #e6e6fa;
+  }
